@@ -1,0 +1,47 @@
+2018-05-22 09:42:03,963 - root - INFO - hello
+2018-05-22 09:43:11,498 - root - INFO - hello
+2018-05-22 09:43:34,557 - root - INFO - hello
+2018-05-22 09:44:14,605 - root - INFO - hello
+2018-05-22 09:44:31,212 - root - INFO - hello
+2018-05-22 09:45:39,946 - root - INFO - hello
+2018-05-22 10:01:43,879 - root - ERROR - __init__: 
+Traceback (most recent call last):
+  File "D:/SW/BigData_AI/MyProject/1. RecommendationEngine_04122018/Product/2. P1_Prepare/exploratory_data_analysis/scripts/exploratory_data_analysis.py", line 23, in get_config_info
+    self.logger.info('ExploratoryDataAnalysis:get_config_info')
+AttributeError: 'ExploratoryDataAnalysis' object has no attribute 'logger'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:/SW/BigData_AI/MyProject/1. RecommendationEngine_04122018/Product/2. P1_Prepare/exploratory_data_analysis/scripts/exploratory_data_analysis.py", line 15, in main
+    eda.get_config_info()
+  File "D:/SW/BigData_AI/MyProject/1. RecommendationEngine_04122018/Product/2. P1_Prepare/exploratory_data_analysis/scripts/exploratory_data_analysis.py", line 30, in get_config_info
+    self.logger.error('get_config_info', exc_info = True)
+AttributeError: 'ExploratoryDataAnalysis' object has no attribute 'logger'
+2018-05-22 10:05:24,057 - root - ERROR - __init__: 
+Traceback (most recent call last):
+  File "D:/SW/BigData_AI/MyProject/1. RecommendationEngine_04122018/Product/2. P1_Prepare/exploratory_data_analysis/scripts/exploratory_data_analysis.py", line 15, in main
+    eda.get_config_info(logger)
+TypeError: get_config_info() takes 1 positional argument but 2 were given
+2018-05-22 10:10:09,114 - root - ERROR - __init__: 
+Traceback (most recent call last):
+  File "D:/SW/BigData_AI/MyProject/1. RecommendationEngine_04122018/Product/2. P1_Prepare/exploratory_data_analysis/scripts/exploratory_data_analysis.py", line 15, in main
+    eda.get_config_info()
+TypeError: get_config_info() takes 0 positional arguments but 1 was given
+2018-05-22 10:10:36,829 - root - INFO - Hi
+2018-05-22 10:11:17,933 - root - INFO - Hi
+2018-05-22 10:14:07,905 - root - INFO - main
+2018-05-22 10:14:07,909 - root - INFO - get_config_info
+2018-05-22 10:22:43,234 - root - INFO - main
+2018-05-22 10:22:43,234 - root - INFO - ExploratoryDataAnalysis: get_config_info()
+2018-05-22 10:22:43,234 - root - ERROR - get_config_info
+Traceback (most recent call last):
+  File "D:/SW/BigData_AI/MyProject/1. RecommendationEngine_04122018/Product/2. P1_Prepare/exploratory_data_analysis/scripts/exploratory_data_analysis.py", line 30, in get_config_info
+    ds._calulate_descriptive_statistics(path)
+  File "D:\SW\BigData_AI\MyProject\1. RecommendationEngine_04122018\Product\2. P1_Prepare\exploratory_data_analysis\scripts\descriptive_statistics.py", line 11, in _calulate_descriptive_statistics
+    logger.info('DescriptiveStatistics:_calulate_descriptive_statistics')
+AttributeError: 'str' object has no attribute 'info'
+2018-05-22 10:23:17,137 - root - INFO - main
+2018-05-22 10:23:17,137 - root - INFO - ExploratoryDataAnalysis: get_config_info()
+2018-05-22 10:27:24,503 - root - INFO - main
+2018-05-22 10:27:24,503 - root - INFO - ExploratoryDataAnalysis: get_config_info()
