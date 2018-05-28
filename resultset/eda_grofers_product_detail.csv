@@ -1,51 +1,51 @@
-Date,category_name,item_name,offer(% OFF),old_price,price,quantity
-5/1/2018,Breakfast & Dairy,Alphonso Mango,11,420,373.8,6 units
-5/2/2018,Breakfast & Dairy,Alphonso Mango,12,420,369.6,6 units
-5/3/2018,Breakfast & Dairy,Alphonso Mango,13,420,365.4,6 units
-5/4/2018,Breakfast & Dairy,Alphonso Mango,14,420,361.2,6 units
-5/5/2018,Breakfast & Dairy,Alphonso Mango,15,420,357,6 units
-5/6/2018,Breakfast & Dairy,Alphonso Mango,16,420,352.8,6 units
-5/7/2018,Breakfast & Dairy,Alphonso Mango,17,420,348.6,6 units
-5/8/2018,Breakfast & Dairy,Alphonso Mango,18,420,344.4,6 units
-5/9/2018,Breakfast & Dairy,Alphonso Mango,19,420,340.2,6 units
-5/10/2018,Breakfast & Dairy,Alphonso Mango,20,420,336,6 units
-5/1/2018,Breakfast & Dairy,Kiran Watermelon,1,30,29.7,1 unit (1.75-2.75 kg)
-5/2/2018,Breakfast & Dairy,Kiran Watermelon,2,30,29.4,2 unit (1.75-2.75 kg)
-5/3/2018,Breakfast & Dairy,Kiran Watermelon,3,30,29.1,3 unit (1.75-2.75 kg)
-5/4/2018,Breakfast & Dairy,Kiran Watermelon,4,30,28.8,4 unit (1.75-2.75 kg)
-5/5/2018,Breakfast & Dairy,Kiran Watermelon,5,30,28.5,5 unit (1.75-2.75 kg)
-5/6/2018,Breakfast & Dairy,Kiran Watermelon,6,30,28.2,6 unit (1.75-2.75 kg)
-5/7/2018,Breakfast & Dairy,Kiran Watermelon,7,30,27.9,7 unit (1.75-2.75 kg)
-5/8/2018,Breakfast & Dairy,Kiran Watermelon,8,30,27.6,8 unit (1.75-2.75 kg)
-5/9/2018,Breakfast & Dairy,Kiran Watermelon,9,30,27.3,9 unit (1.75-2.75 kg)
-5/10/2018,Breakfast & Dairy,Kiran Watermelon,10,30,27,10 unit (1.75-2.75 kg)
-5/1/2018,Personal Care,Pantene Total Damage Care Shampoo,41,395,233.05,675 ml
-5/2/2018,Personal Care,Pantene Total Damage Care Shampoo,42,395,229.1,676 ml
-5/3/2018,Personal Care,Pantene Total Damage Care Shampoo,43,395,225.15,677 ml
-5/4/2018,Personal Care,Pantene Total Damage Care Shampoo,44,395,221.2,678 ml
-5/5/2018,Personal Care,Pantene Total Damage Care Shampoo,45,395,217.25,679 ml
-5/6/2018,Personal Care,Pantene Total Damage Care Shampoo,46,395,213.3,680 ml
-5/7/2018,Personal Care,Pantene Total Damage Care Shampoo,47,395,209.35,681 ml
-5/8/2018,Personal Care,Pantene Total Damage Care Shampoo,48,395,205.4,682 ml
-5/9/2018,Personal Care,Pantene Total Damage Care Shampoo,49,395,201.45,683 ml
-5/10/2018,Personal Care,Pantene Total Damage Care Shampoo,50,395,197.5,684 ml
-5/1/2018,Personal Care,Whisper Ultra Clean Sanitary Pads (XL+ Wings),31,399,275.31,44 units
-5/2/2018,Personal Care,Whisper Ultra Clean Sanitary Pads (XL+ Wings),32,399,271.32,45 units
-5/3/2018,Personal Care,Whisper Ultra Clean Sanitary Pads (XL+ Wings),33,399,267.33,46 units
-5/4/2018,Personal Care,Whisper Ultra Clean Sanitary Pads (XL+ Wings),34,399,263.34,47 units
-5/5/2018,Personal Care,Whisper Ultra Clean Sanitary Pads (XL+ Wings),35,399,259.35,48 units
-5/6/2018,Personal Care,Whisper Ultra Clean Sanitary Pads (XL+ Wings),36,399,255.36,49 units
-5/7/2018,Personal Care,Whisper Ultra Clean Sanitary Pads (XL+ Wings),37,399,251.37,50 units
-5/8/2018,Personal Care,Whisper Ultra Clean Sanitary Pads (XL+ Wings),38,399,247.38,51 units
-5/9/2018,Personal Care,Whisper Ultra Clean Sanitary Pads (XL+ Wings),39,399,243.39,52 units
-5/10/2018,Personal Care,Whisper Ultra Clean Sanitary Pads (XL+ Wings),40,399,239.4,53 units
-5/1/2018,Personal Care,Pears Pure & Gentle Soap,21,164,129.56,3x125 gm
-5/2/2018,Personal Care,Pears Pure & Gentle Soap,22,164,127.92,3x125 gm
-5/3/2018,Personal Care,Pears Pure & Gentle Soap,23,164,126.28,3x125 gm
-5/4/2018,Personal Care,Pears Pure & Gentle Soap,24,164,124.64,3x125 gm
-5/5/2018,Personal Care,Pears Pure & Gentle Soap,25,164,123,3x125 gm
-5/6/2018,Personal Care,Pears Pure & Gentle Soap,26,164,121.36,3x125 gm
-5/7/2018,Personal Care,Pears Pure & Gentle Soap,27,164,119.72,3x125 gm
-5/8/2018,Personal Care,Pears Pure & Gentle Soap,28,164,118.08,3x125 gm
-5/9/2018,Personal Care,Pears Pure & Gentle Soap,29,164,116.44,3x125 gm
-5/10/2018,Personal Care,Pears Pure & Gentle Soap,30,164,114.8,3x125 gm
+category_name,item_name,Date Range,quantity,price_min,price_max,price_mean,price_median,price_mode,price_skewness,price_distribution,price_variance,price_standard_deviation
+Breakfast & Dairy,Alphonso Mango,5/1/2018 - 5/10/2018,6 units,336,373.8,354.9,354.9,,,,,
+Breakfast & Dairy,Kiran Watermelon,5/1/2018 - 5/10/2018,1 unit (1.75-2.75 kg),27,29.7,28.35,,,,,,
+Personal Care,Pantene Total Damage Care Shampoo,5/1/2018 - 5/10/2018,675 ml,197.5,233.05,215.275,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
